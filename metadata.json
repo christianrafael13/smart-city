@@ -1,0 +1,6 @@
+{
+  "name": "Cidade Inteligente – Smart City 2050",
+  "description": "Plataforma interativa 3D de Cidade Inteligente 2050 com gêmeo digital urbano, monitoramento em tempo real de energia sustentável, mobilidade conectada, meio ambiente e infraestrutura IoT.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
